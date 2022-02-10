@@ -1,6 +1,6 @@
 <body>
     <div align="center">
-        <h1><strong>Hi, I'm Victor!</strong><br>and<br></h1>
+        <h1><strong>Hi, I'm Victor!</strong></h1>
         <h2>I'm falling in love with programing 💜</h2>
     </div>
     <div align="center">
