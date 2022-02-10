@@ -5,11 +5,10 @@
 </div>
 
 ##
-&nbsp;
 <h3 align="center">Everthing that I'm work on <img width="5%" align="center" src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-hype-gif.gif"></h3>
 <!--Technologys-->
 <div align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJSouza&layout=compact&card_width=1000&langs_count=10&hide_title=0&bg_color=45°,2d004d,1e0033,0f001a&text_color=ffffff&border_color=3a3a3a" />
+    <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJSouza&layout=compact&card_width=700&langs_count=10&hide_title=0&bg_color=45°,2d004d,1e0033,0f001a&text_color=ffffff&border_color=3a3a3a" />
     <p><strong>Note</strong>: this is only a measure of my public code there's nothing to related my skills and experience as a programmer.
 </div>
 <div align="center">
