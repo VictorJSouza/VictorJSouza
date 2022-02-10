@@ -3,7 +3,7 @@
         <h1><strong>Hi, I'm Victor!</strong><br>
             <img style="width: 60px;"
                 src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-melt-gif.gif">
-            <div style="font-size: smaller;">I'm falling in love with programing</div> 
+            I'm falling in love with programing
             <img style="width: 60px;"
                 src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-melt-gif.gif">
         </h1>
