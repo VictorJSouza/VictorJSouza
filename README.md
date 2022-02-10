@@ -1,12 +1,8 @@
 <body>
     <div align="center">
-        <h1><strong>Hi, I'm Victor!</strong><br>
-            <img style="width: 60px;"
-                src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-melt-gif.gif">
-            I'm falling in love with programing
-            <img style="width: 60px;"
-                src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-melt-gif.gif">
-        </h1>
+        <h1><strong>Hi, I'm Victor!</strong></h1>
+        <p align="center" style="font-size: medium;">and</p>
+        <h2>I'm falling in love with programing 💜</h2>
     </div>
     <div align="center">
         <a href="https://github.com/VictorJSouza">
