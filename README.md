@@ -1,9 +1,10 @@
 <body>
     <div align="center">
-        <h1><strong>Hi, I'm Victor!</strong></h1>
+        <h1>Hi, I'm Victor!</h1>
         <h2>I'm falling in love with programing 💜</h2>
-        ## ⚡ Everthing that I'm on
+        <h1>Everthing that I'm work on <img width="5%" align="center" src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-hype-gif.gif"></h1>
     </div>
+    
     <div align="center">
         <a href="https://github.com/VictorJSouza">
             <img height="250em"
